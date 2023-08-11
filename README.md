@@ -4,7 +4,7 @@ Done for the course *Gestión de Proyectos Informáticos* of the BSc in Mathemat
 
 Submitted in May, 2022
 
-# Description
+## Description
 
 Backend: Python
 FrontEnd: Python (StreamLit)
