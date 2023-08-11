@@ -6,12 +6,12 @@ Submitted in May, 2022
 
 ## Description
 
-Backend: Python
-FrontEnd: Python (StreamLit)
-Database: CSV documents
-Work Management: Jira
-Version control: GitHub
-Lifecycle: Agile methodology (Scrum)
+- Backend: Python
+- FrontEnd: Python (StreamLit)
+- Database: CSV documents
+- Work Management: Jira
+- Version control: GitHub
+- Lifecycle: Agile methodology (Scrum)
 
 
 Paquetes necesarios:
