@@ -1,0 +1,17 @@
+,Fecha Recogida,Hora Recogida,Fecha Entrega,Hora Entrega,Oficina Recogida,Oficina Entrega,Coche,Tipo Cliente,Tarifa,Descuento,Extras,Num_Tarjeta,Titular,Cantidad Pago,Active
+0,2019-04-21,08:00:00,2022-04-22,08:00:00,Oficina Madrid,Oficina Madrid,Mini Cooper 3,Cliente de negocio,Tarifa Test,0,Ninguno,123412341234123,fgregrgsg,9999.0,True
+1,2020-04-28,08:00:00,2022-04-29,08:00:00,Oficina Madrid,Oficina Madrid,Hyundai Ioniq,Cliente regular,Tarifa Test,0,Ninguno,1234123412341234,eefwfwe,9999.0,True
+2,2020-04-28,10:30:00,2022-05-02,08:30:00,Oficina Madrid,Oficina Barcelona,Nissan Sentra 1,Cliente regular,Tarifa Test,0,Ninguno,1234123412341234,daiwub,9999.0,True
+3,2021-04-28,10:30:00,2022-05-02,08:30:00,Oficina Madrid,Oficina Barcelona,Nissan Sentra 1,Cliente regular,Tarifa Test,0,Ninguno,1234123412341234,daiwub,9999.0,True
+4,2021-04-28,08:00:00,2022-04-30,08:00:00,Oficina Madrid,Oficina Barcelona,Nissan Sentra 2,Cliente regular,Tarifa Test,0,Ninguno,1234123412341234,fwefwef,9999.0,False
+5,2022-04-28,21:30:00,2022-04-30,14:45:00,Oficina Madrid,Oficina Barcelona,Nissan Sentra 2,Cliente regular,Tarifa Test,0,Ninguno,1234123412341234,rgergerg,9999.0,True
+6,2022-04-29,12:00:00,2022-04-30,08:00:00,Oficina Madrid,Oficina Barcelona,Nissan Sentra 2,Cliente regular,Tarifa Test,0,Ninguno,1234123412341234,gruingoirnio,9999.0,True
+7,2022-05-20,08:00:00,2022-05-30,08:00:00,Oficina Madrid,Oficina Madrid,Hyundai Ioniq,Cliente regular,Tarifa Test,0,Ninguno,1234123412341234,fgresrg,9999.0,True
+8,2022-05-20,08:00:00,2022-05-30,08:00:00,Oficina Madrid,Oficina Madrid,Hyundai Ioniq,Cliente regular,Por kilometraje,0,[],1234123412341234,fwefwefwe,0.63,True
+9,2022-05-20,08:00:00,2022-05-24,08:00:00,Oficina Madrid,Oficina Barcelona,Hyundai Ioniq,Cliente regular,Por kilometraje,0,"['GPS', 'Silla de seguridad']",1234123412341234,fertg,35.63,True
+10,2022-05-20,08:00:00,2022-05-24,08:00:00,Oficina Madrid,Oficina Barcelona,Hyundai Ioniq,Cliente regular,Por kilometraje,0,"['GPS', 'Silla de seguridad']",1234123412341234,fertg,35.63,False
+11,2022-05-20,08:00:00,2022-05-27,08:00:00,Oficina Madrid,Oficina Madrid,Hyundai Ioniq,Cliente de negocio,Semanal,25,"['Wifi', 'GPS', 'Silla de seguridad']",1234123412341234,aa,506.0,True
+12,2022-05-20,08:00:00,2022-05-27,08:00:00,Oficina Madrid,Oficina Madrid,Hyundai Ioniq,Cliente de negocio,Semanal,25,"['Wifi', 'GPS', 'Silla de seguridad']",1234123412341234,aaaa,506.0,True
+13,2022-05-20,08:00:00,2022-05-27,08:00:00,Oficina Madrid,Oficina Madrid,Hyundai Ioniq,Cliente de negocio,Semanal,25,"['Wifi', 'GPS', 'Silla de seguridad']",1234123412341234,aaaa,506.0,True
+14,2022-05-20,08:00:00,2022-05-27,08:00:00,Oficina Madrid,Oficina Madrid,Hyundai Ioniq,Cliente de negocio,Semanal,25,"['Wifi', 'GPS', 'Silla de seguridad']",1234123412341234,aaaa,506.0,True
+15,2022-05-20,08:00:00,2022-05-30,08:00:00,Oficina Madrid,Oficina Bilbao,Hyundai Ioniq,Cliente regular,Por kilometraje,0,[],1234123412341234,123,0.63,True

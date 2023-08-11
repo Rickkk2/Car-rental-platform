@@ -1,0 +1,2 @@
+ID,Fecha Recogida,Hora Recogida,Fecha Entrega,Hora Entrega,Oficina Recogida,Oficina Entrega,Coche,Tipo Cliente,Tarifa,Descuento,Extras,Num_Tarjeta,Titular,Cantidad Pago
+0,2022-04-21,08:00:00,2022-04-22,08:00:00,Oficina Madrid,Oficina Madrid,Mini Cooper 3,Cliente de negocio,Tarifa Test,,123412341234123,fgregrgsg,9999
