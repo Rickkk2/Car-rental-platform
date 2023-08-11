@@ -1,4 +1,17 @@
-# GPI-Alquiler_de_coches
+# Car rental platform
+
+Done for the course *Gestión de Proyectos Informáticos* of the BSc in Mathematics and Computing at UPM.
+
+Submitted in May, 2022
+
+# Description
+
+Backend: Python
+FrontEnd: Python (StreamLit)
+Database: CSV documents
+Work Management: Jira
+Version control: GitHub
+Lifecycle: Agile methodology (Scrum)
 
 
 Paquetes necesarios:
